@@ -1,2 +1,4 @@
 # python-short_programs
-General and short stuff developed with Python
+Pequenos apps e programas desenvolvidos com Python3.///
+General and short programs developed with Python3.
+
